@@ -1,5 +1,0 @@
-README
-asas
-asasa
-111111
-222222
